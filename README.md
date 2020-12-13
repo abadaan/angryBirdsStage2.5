@@ -1,2 +1,2 @@
 # angryBirdsStage2
-Angry Birds stage 2 with Class Inheritance and Images
+how are you Angry Birds stage 2 with Class Inheritance and Images
